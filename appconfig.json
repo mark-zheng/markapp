@@ -1,0 +1,10 @@
+{
+  "name": "mark-app",
+  "provider": "MC",
+  "description": "hello, world",
+  "version": "1.0.0",
+  "icon": "https://placeimg.com/400/400/nature2020",
+  "dockerRegistry": "docker.io/xiaoqing2chen",
+  "helmChartVersion": "1.0.0",
+  "parameters": []
+}
